@@ -1,0 +1,20 @@
+StartChar: grave
+Encoding: 96 96 64
+Width: 768
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+128 640 m 1,0,-1
+ 256 640 l 1,1,-1
+ 256 512 l 1,2,-1
+ 128 512 l 1,3,-1
+ 128 640 l 1,0,-1
+256 512 m 1,4,-1
+ 384 512 l 1,5,-1
+ 384 384 l 1,6,-1
+ 256 384 l 1,7,-1
+ 256 512 l 1,4,-1
+EndSplineSet
+EndChar
